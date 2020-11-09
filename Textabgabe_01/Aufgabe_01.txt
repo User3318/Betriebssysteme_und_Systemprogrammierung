@@ -1,0 +1,46 @@
+Übungsblatt C++ 01
+
+A1)
+    a)
+    std::map greift auf den Datentyp map der C++ Standardbibliothek zu.
+    Bei map handelt es sich um eine assoziative Containerklasse, welcher die Werte als Key-Value Paare speichert.
+    Hierbei wird mit einem eindeutigen Key(keine gleichen Keys möglich) auf den zugehörigen Wert zugegriffen.
+
+    at(key):
+    Mit dieser Funktion wird die Referenz von einem Wert zurückgegeben. Der Parameter Key ist hierbei der Schlüssel und es wird dann der zugehörige Wert zurückgegeben.
+    Falls kein Wert für diesen Schlüssel vorhanden ist, wird ein out_of_range Fehler geworfen.
+
+    emplace(Args&&... args):
+    Mit emplace fügt man ein neues Key-Value Paar zu der Map hinzu, solange es noch keinen identischen Key in der Map gibt.
+    Als Rückgabe wird ein Pair zurückgegeben, welcher den Iterator des neuen Elements enthält und einen boolschen Wert, der angibt, ob das einfügen erfolgreich war.
+
+    erase():
+    Hiermit entfernt man ein Key-Value Paar aus der Map.
+    Als Parameter kann entweder der Iterator des Wertes oder der Key benutzt werden.
+    Zusätzlich können first, last als Parameter übergeben werden. Hierbei werden alle eintrage von einschließlich first bis zu last gelöscht.
+
+
+    b)
+    std::vector greift auf den Datentyp vector der C++ Standartbibliothek zu.
+    Bei vector handelt es sich um eine sequentielle Containerklasse, welche die Werte "hintereinander" gespeichtert werden.
+    Beispiele dafür wären Arrays oder Listen.
+
+    at(n):
+    Gibt das n-te Element wieder. Falls die Position größer oder gleich der vector-Größe ist, so wird ein out_of_range Fehler geworfen.
+
+    find(first, last, value):
+    Dieser Algorithmus sucht den Wert Value aus einer beliebigen Menge an Objekten, solange auf diese Objekte mit Iteratoren oder Pointern zugegriffen werden kann.
+    Hierbei werden die Elemente(beginnend bei dem first-Iterator) bis zu dem Element vor dem last-Iterator verglichen mit value.
+    Sobald die Werte gleich sind, wird der Iterator des Elements zurückgegeben, ansonsten wird der last-Iterator zurückgegeben.
+
+
+A2)
+    a)
+    Durch const wird der zurückgegebene Vektor unveränderbar. Das ist möglich, da jeder Eintrag eines Vektors als Teil des Vektors angesehen wird (value-type).
+    Dadurch kann auch der Inhalt des Vektors nicht verändert werden.
+
+    b)
+    * bedeutet, dass der Vektor nicht die einzelnen Books, sondern lediglich die Pointer der Books enthält.
+    & sorgt dafür, dass nur die Referenz des Vektors zurüchgegeben wird, und nicht eine neu erstellt Kopie des Vektors
+
+    Zusammenfassend gibt getBooks() eine Referenz eines nicht veränderbaren Vektors wieder, welcher Pointer der einzelnen Books enthält.
