@@ -55,7 +55,7 @@ A3)
         const vector kann kein erase verwenden -> direct auf lendings zugreifen
 
     Book.h Z8, Book.cpp Z4:
-        lent als Parameter wird in main nicht verwendet -> lend entfernen.
+        lent als Parameter wird in main nicht verwendet -> lend als Parameter entfernen.
 
     Library.cpp Z18/26:
         Nicht alle Wege geben einen Wert wieder.    -> return true; an das Funktionsende schreiben
