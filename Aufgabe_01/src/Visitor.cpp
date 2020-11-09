@@ -34,6 +34,10 @@ bool Visitor::removeFromLentBooks(Book *book) {
     if(book == nullptr) {
         return false;
     }
+    if(std::find(this->lentBooks.begin(), this->lentBooks.end(), book) == this->lentBooks.end())
+    {
+        return false;
+    }
     this->lentBooks.erase(std::find(this->lentBooks.begin(), this->lentBooks.end(), book));
     return true;
 }

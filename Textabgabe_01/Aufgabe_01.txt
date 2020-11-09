@@ -44,3 +44,21 @@ A2)
     & sorgt dafür, dass nur die Referenz des Vektors zurüchgegeben wird, und nicht eine neu erstellt Kopie des Vektors
 
     Zusammenfassend gibt getBooks() eine Referenz eines nicht veränderbaren Vektors wieder, welcher Pointer der einzelnen Books enthält.
+
+
+A3)
+    a)
+    Library.cpp Z13/16:
+        Shelf.h ist nicht angegeben, die Funktionen sind nicht bekannt -> Header includieren
+
+    Library.cpp Z.51:
+        const vector kann kein erase verwenden -> direct auf lendings zugreifen
+
+    Book.h Z8, Book.cpp Z4:
+        lent als Parameter wird in main nicht verwendet -> lend entfernen.
+
+    Library.cpp Z18/26:
+        Nicht alle Wege geben einen Wert wieder.    -> return true; an das Funktionsende schreiben
+
+    Visitors.cpp Z 37:
+        Wenn der Visitor das Buch nicht ausgeliehen hat, wird trotzdem angegeben, es wurde erfolgreich entfernt.    -> return False falls Buch nicht vom Visitor ausgeliehen

@@ -1,11 +1,16 @@
 #include "Library.h"
 #include "Book.h"
 #include "Visitor.h"
+#include "Shelf.h"
 #include <sstream>
 
 Library::Library(std::string name)
 {
     this->name = name;
+}
+
+Library::~Library(){
+
 }
 
 bool Library::addShelf(Shelf* shelf)
@@ -14,6 +19,7 @@ bool Library::addShelf(Shelf* shelf)
         return false;
     }
     this->shelfs.emplace(shelf->getId(), shelf);
+    return true;
 }
 
 bool Library::addBook(Book* book)
@@ -22,6 +28,7 @@ bool Library::addBook(Book* book)
         return false;
     }
     this->books.emplace(book->getIsbn(), book);
+    return true;
 }
 
 void Library::lentBook(Book* book, Visitor* visitor)
@@ -48,7 +55,7 @@ void Library::returnBook(Book* book, Visitor* visitor)
     }
     if (visitor->removeFromLentBooks(book)) {
         book->setLent(false);
-        this->getLendings().erase(book);
+        this->lendings.erase(book);
     }
 }
 

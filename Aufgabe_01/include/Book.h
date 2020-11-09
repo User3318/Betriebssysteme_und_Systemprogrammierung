@@ -5,7 +5,7 @@
 class Shelf;
 class Book {
 public:
-    Book(std::string isbn, std::string name, std::string author, bool lent);
+    Book(std::string isbn, std::string name, std::string author);
 
     std::string getIsbn();
     std::string getName();

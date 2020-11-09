@@ -1,11 +1,10 @@
 #include "Book.h"
 #include "Shelf.h"
 
-Book::Book(std::string isbn, std::string name, std::string author, bool lent) {
+Book::Book(std::string isbn, std::string name, std::string author) {
     this->isbn = isbn;
     this->name = name;
     this->author = author;
-    this->lent = lent;
 }
 
 void Book::setShelf(Shelf* shelf) {
