@@ -5,6 +5,8 @@ Book::Book(std::string isbn, std::string name, std::string author) {
     this->isbn = isbn;
     this->name = name;
     this->author = author;
+    this->lent = false;
+    this->shelf = nullptr;
 }
 
 void Book::setShelf(Shelf* shelf) {

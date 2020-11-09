@@ -61,7 +61,21 @@ void Library::returnBook(Book* book, Visitor* visitor)
 
 std::string Library::toString()
 {
-    return "";
+    std::stringstream stream;
+    stream << name << "\n";
+    for (std::map<std::string, Shelf*>::iterator shelfIt=this->shelfs.begin(); shelfIt != this->shelfs.end(); ++shelfIt) {
+        stream << shelfIt->first << ":\n";
+        for(std::vector<Book*>::const_iterator bookIt=shelfIt->second->getBooks().begin(); bookIt != shelfIt->second->getBooks().end(); ++bookIt) {
+            stream << bookIt.operator*()->getName() << "(" << bookIt.operator*()->getIsbn() << ") von " << bookIt.operator*()->getAuthor() << "\n";
+            if(bookIt.operator*()->isLent()) {
+                stream << "Ausgeliehen von: " << lendings.at(bookIt.operator*())->getName();
+            } else {
+                stream << "Erhältlich";
+            }
+            stream << "\n";
+        }
+    }
+    return stream.str();
 }
 
 const std::map<Book*, Visitor*>& Library::getLendings() const
