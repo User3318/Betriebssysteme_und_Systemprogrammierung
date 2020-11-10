@@ -56,5 +56,21 @@ int main() {
 
     std::cout << library.toString() << std::endl;
 
+    delete rShelf;
+    delete sShelf;
+    delete tShelf;
+    delete aShelf;
+
+    delete book1;
+    delete book2;
+    delete book3;
+    delete book4;
+    delete book5;
+
+    delete alice;
+    delete bob;
+    delete carol;
+    delete dan;
+
     return 0;
 }

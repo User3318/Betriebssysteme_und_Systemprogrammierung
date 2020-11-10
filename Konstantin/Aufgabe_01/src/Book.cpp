@@ -6,7 +6,7 @@ Book::Book(std::string isbn, std::string name, std::string author, bool lent) {
     this->name = name;
     this->author = author;
     this->lent = lent;
-    this->shelf = nullptr;
+    //this->shelf = nullptr;
 }
 
 void Book::setShelf(Shelf* shelf) {

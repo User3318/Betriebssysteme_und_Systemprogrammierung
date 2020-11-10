@@ -9,7 +9,6 @@ class Shelf;
 class Library {
 public:
     Library(std::string name);
-    ~Library();
 
     bool addShelf(Shelf* shelf);
     bool addBook(Book* book);

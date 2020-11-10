@@ -9,10 +9,6 @@ Library::Library(std::string name)
     this->name = name;
 }
 
-Library::~Library(){
-
-}
-
 bool Library::addShelf(Shelf* shelf)
 {
     if (this->shelfs.find(shelf->getId()) != this->shelfs.end()) {
