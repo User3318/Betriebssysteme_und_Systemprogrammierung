@@ -41,7 +41,7 @@ A2)
 
     b)
     * bedeutet, dass der Vektor nicht die einzelnen Books, sondern lediglich die Pointer der Books enthält.
-    & sorgt dafür, dass nur die Referenz des Vektors zurüchgegeben wird, und nicht eine neu erstellt Kopie des Vektors
+    & sorgt dafür, dass nur die Adresse des Vektors zurüchgegeben wird, und nicht eine neu erstellt Kopie des Vektors
 
     Zusammenfassend gibt getBooks() eine Referenz eines nicht veränderbaren Vektors wieder, welcher Pointer der einzelnen Books enthält.
 
