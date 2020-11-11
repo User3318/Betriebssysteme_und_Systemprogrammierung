@@ -6,15 +6,15 @@ Book::Book(std::string isbn, std::string name, std::string author, bool lent) {
     this->name = name;
     this->author = author;
     this->lent = lent;
-    this->shelf = nullptr;
+    this->shelf = nullptr;  //exit code -1073741819 (0xC0000005) wenn shelf nicht auf nullptr gesetzt wird. Unter Windows10 CLion2020.2.4; Wahrscheinlich nur ein persönlicher Fehler, kein Problem unter Linux
 }
 
 Book::Book(std::string isbn, std::string name, std::string author) {
     this->isbn = isbn;
     this->name = name;
     this->author = author;
-    this->lent = false;
-    this->shelf = nullptr;  //exit code -1073741819 (0xC0000005) wenn shelf nicht auf nullptr gesetzt wird. Unter Windows10 CLion2020.2.4
+    this->lent = false;     //set default lent value to false
+    this->shelf = nullptr;  //exit code -1073741819 (0xC0000005) wenn shelf nicht auf nullptr gesetzt wird. Unter Windows10 CLion2020.2.4; Wahrscheinlich nur ein persönlicher Fehler, kein Problem unter Linux
 }
 
 void Book::setShelf(Shelf* shelf) {

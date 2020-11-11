@@ -52,12 +52,13 @@ int main() {
 
     library.returnBook(book4, bob);
     library.returnBook(book3, bob);
+    delete bob;
+
     library.lentBook(book4, dan);
 
     std::cout << library.toString() << std::endl;
 
     delete alice;
-    delete bob;
     delete carol;
     delete dan;
 

@@ -34,7 +34,7 @@ bool Visitor::removeFromLentBooks(Book *book) {
     if(book == nullptr) {
         return false;
     }
-    if(std::find(this->lentBooks.begin(), this->lentBooks.end(), book) == this->lentBooks.end())
+    if(std::find(this->lentBooks.begin(), this->lentBooks.end(), book) == this->lentBooks.end())    //if-condition to return false if book is not lend.
     {
         return false;
     }
