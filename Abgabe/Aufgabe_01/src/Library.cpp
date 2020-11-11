@@ -62,7 +62,7 @@ void Library::returnBook(Book* book, Visitor* visitor)
     }
     if (visitor->removeFromLentBooks(book)) {
         book->setLent(false);
-        this->lendings.erase(book);     //use this->lendings instead of
+        this->lendings.erase(book);     //use this->lendings instead of this->getLendings()
     }
 }
 
