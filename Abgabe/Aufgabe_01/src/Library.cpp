@@ -3,13 +3,21 @@
 #include "Visitor.h"
 #include "Shelf.h"
 #include <sstream>
+#include <iostream>
 
 Library::Library(std::string name)
 {
     this->name = name;
 }
 
-Library::~Library() = default;
+Library::~Library() {
+    for (auto const& currentShelf : shelfs) {
+        delete currentShelf.second;
+    }
+    for (auto const& currentBook : books) {
+        delete currentBook.second;
+    }
+}
 
 bool Library::addShelf(Shelf* shelf)
 {

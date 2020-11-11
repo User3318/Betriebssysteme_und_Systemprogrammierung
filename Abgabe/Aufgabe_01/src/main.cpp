@@ -56,5 +56,10 @@ int main() {
 
     std::cout << library.toString() << std::endl;
 
+    delete alice;
+    delete bob;
+    delete carol;
+    delete dan;
+
     return 0;
 }
