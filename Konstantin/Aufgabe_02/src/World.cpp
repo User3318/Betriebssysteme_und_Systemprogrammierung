@@ -22,7 +22,8 @@ World::World(int length, int width)
 
 World::~World()
 {
-    // TODO implement me
+    delete field;
+    delete inputThread;
 }
 
 void World::executeAdd(const std::string& type, int x, int y){
