@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Block.h
+string
+-
+
+../include/CubeBlock.h
+Block.h
+../include/Block.h
+
+../include/Field.h
+vector
+-
+map
+-
+stack
+-
+
+../include/PyramidBlock.h
+Block.h
+../include/Block.h
+Field.h
+../include/Field.h
+
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/src/Field.cpp
+Field.h
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/src/Field.h
+CubeBlock.h
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/src/CubeBlock.h
+PyramidBlock.h
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/src/PyramidBlock.h
+sstream
+-
+
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/src/PyramidBlock.cpp
+PyramidBlock.h
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/src/PyramidBlock.h
+
