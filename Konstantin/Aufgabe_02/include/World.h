@@ -26,4 +26,10 @@ protected:
     static const std::string pyramid;
     static const std::string move;
     static const std::string exit;
+
+    void executeAdd(const std::string& type, int x, int y);
+
+    bool onlyDigits(std::string &coordinates);
+
+    void executeMove(int id, int x, int y);
 };

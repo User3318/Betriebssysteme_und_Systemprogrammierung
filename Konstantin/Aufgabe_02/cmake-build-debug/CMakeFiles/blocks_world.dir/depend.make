@@ -18,7 +18,6 @@ CMakeFiles/blocks_world.dir/src/Field.cpp.obj: ../include/PyramidBlock.h
 CMakeFiles/blocks_world.dir/src/Field.cpp.obj: ../src/Field.cpp
 
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj: ../include/Block.h
-CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj: ../include/Field.h
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj: ../include/PyramidBlock.h
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj: ../src/PyramidBlock.cpp
 

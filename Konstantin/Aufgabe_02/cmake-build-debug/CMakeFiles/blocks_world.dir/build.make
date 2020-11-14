@@ -80,85 +80,85 @@ CMakeFiles/blocks_world.dir/main.cpp.obj: CMakeFiles/blocks_world.dir/flags.make
 CMakeFiles/blocks_world.dir/main.cpp.obj: CMakeFiles/blocks_world.dir/includes_CXX.rsp
 CMakeFiles/blocks_world.dir/main.cpp.obj: ../main.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/blocks_world.dir/main.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\main.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\main.cpp
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\main.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\main.cpp
 
 CMakeFiles/blocks_world.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blocks_world.dir/main.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\main.cpp > CMakeFiles\blocks_world.dir\main.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\main.cpp > CMakeFiles\blocks_world.dir\main.cpp.i
 
 CMakeFiles/blocks_world.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blocks_world.dir/main.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\main.cpp -o CMakeFiles\blocks_world.dir\main.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\main.cpp -o CMakeFiles\blocks_world.dir\main.cpp.s
 
 CMakeFiles/blocks_world.dir/src/Field.cpp.obj: CMakeFiles/blocks_world.dir/flags.make
 CMakeFiles/blocks_world.dir/src/Field.cpp.obj: CMakeFiles/blocks_world.dir/includes_CXX.rsp
 CMakeFiles/blocks_world.dir/src/Field.cpp.obj: ../src/Field.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/blocks_world.dir/src/Field.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\Field.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Field.cpp
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\Field.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Field.cpp
 
 CMakeFiles/blocks_world.dir/src/Field.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blocks_world.dir/src/Field.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Field.cpp > CMakeFiles\blocks_world.dir\src\Field.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Field.cpp > CMakeFiles\blocks_world.dir\src\Field.cpp.i
 
 CMakeFiles/blocks_world.dir/src/Field.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blocks_world.dir/src/Field.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Field.cpp -o CMakeFiles\blocks_world.dir\src\Field.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Field.cpp -o CMakeFiles\blocks_world.dir\src\Field.cpp.s
 
 CMakeFiles/blocks_world.dir/src/Block.cpp.obj: CMakeFiles/blocks_world.dir/flags.make
 CMakeFiles/blocks_world.dir/src/Block.cpp.obj: CMakeFiles/blocks_world.dir/includes_CXX.rsp
 CMakeFiles/blocks_world.dir/src/Block.cpp.obj: ../src/Block.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/blocks_world.dir/src/Block.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\Block.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Block.cpp
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\Block.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Block.cpp
 
 CMakeFiles/blocks_world.dir/src/Block.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blocks_world.dir/src/Block.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Block.cpp > CMakeFiles\blocks_world.dir\src\Block.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Block.cpp > CMakeFiles\blocks_world.dir\src\Block.cpp.i
 
 CMakeFiles/blocks_world.dir/src/Block.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blocks_world.dir/src/Block.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Block.cpp -o CMakeFiles\blocks_world.dir\src\Block.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\Block.cpp -o CMakeFiles\blocks_world.dir\src\Block.cpp.s
 
 CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.obj: CMakeFiles/blocks_world.dir/flags.make
 CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.obj: CMakeFiles/blocks_world.dir/includes_CXX.rsp
 CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.obj: ../src/CubeBlock.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\CubeBlock.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\CubeBlock.cpp
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\CubeBlock.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\CubeBlock.cpp
 
 CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\CubeBlock.cpp > CMakeFiles\blocks_world.dir\src\CubeBlock.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\CubeBlock.cpp > CMakeFiles\blocks_world.dir\src\CubeBlock.cpp.i
 
 CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\CubeBlock.cpp -o CMakeFiles\blocks_world.dir\src\CubeBlock.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\CubeBlock.cpp -o CMakeFiles\blocks_world.dir\src\CubeBlock.cpp.s
 
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj: CMakeFiles/blocks_world.dir/flags.make
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj: CMakeFiles/blocks_world.dir/includes_CXX.rsp
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj: ../src/PyramidBlock.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\PyramidBlock.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\PyramidBlock.cpp
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\PyramidBlock.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\PyramidBlock.cpp
 
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\PyramidBlock.cpp > CMakeFiles\blocks_world.dir\src\PyramidBlock.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\PyramidBlock.cpp > CMakeFiles\blocks_world.dir\src\PyramidBlock.cpp.i
 
 CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\PyramidBlock.cpp -o CMakeFiles\blocks_world.dir\src\PyramidBlock.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\PyramidBlock.cpp -o CMakeFiles\blocks_world.dir\src\PyramidBlock.cpp.s
 
 CMakeFiles/blocks_world.dir/src/World.cpp.obj: CMakeFiles/blocks_world.dir/flags.make
 CMakeFiles/blocks_world.dir/src/World.cpp.obj: CMakeFiles/blocks_world.dir/includes_CXX.rsp
 CMakeFiles/blocks_world.dir/src/World.cpp.obj: ../src/World.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/blocks_world.dir/src/World.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\World.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\World.cpp
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\blocks_world.dir\src\World.cpp.obj -c C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\World.cpp
 
 CMakeFiles/blocks_world.dir/src/World.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/blocks_world.dir/src/World.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\World.cpp > CMakeFiles\blocks_world.dir\src\World.cpp.i
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\World.cpp > CMakeFiles\blocks_world.dir\src\World.cpp.i
 
 CMakeFiles/blocks_world.dir/src/World.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/blocks_world.dir/src/World.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\World.cpp -o CMakeFiles\blocks_world.dir\src\World.cpp.s
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\konst\Documents\GitHub\Betriebssysteme_und_Systemprogrammierung\Konstantin\Aufgabe_02\src\World.cpp -o CMakeFiles\blocks_world.dir\src\World.cpp.s
 
 # Object files for target blocks_world
 blocks_world_OBJECTS = \
