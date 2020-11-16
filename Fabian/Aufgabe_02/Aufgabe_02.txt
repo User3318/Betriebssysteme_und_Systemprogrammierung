@@ -1,0 +1,33 @@
+A1)
+a)
+dynamic_cast:
+dynamic_cast<new_type>(expression)
+    Ein dynamic_cast konvertiert Objekt-Pointer/Referenzen zur Laufzeit, hierbei wird auch zur Laufzeit überprüft, ob diese Konvertierung valide ist.
+    Eine Konvertierung auf eine Oberklasse gibt den konvertierten Typ-Pointer/Referenz wieder,
+    falls es sich bei new_type um eine Oberklasse des zu konvertieren Types handelt.
+    Eine Konvertierung auf eine Unterklasse ist nur möglich, wenn die Oberklasse eine polymorphe Klasse ist, also mindestens eine virtuelle Methode enthält.
+    Falls die Konvertierung nicht erfolgreich ist, wir entweder ein Null-Pointer zurückgegeben(wenn new_type ein Pointer ist).
+    Wenn new_type eine Referenz ist wird stattdessen eine bad_cast-exception geworfen.
+
+b)
+static_cast:
+static_cast<new_type>(ptr)
+    Ein static_cast konvertiert einen Pointer zur Compile-Zeit. Falls die Typen nicht verwandt sind, wird ein Complier Error ausgegeben.
+
+c)
+Da ein static-cast zur Compile-Zeit überprüft, ob eine Konvertierung möglich ist, ist diese Konvertierung schneller.
+Allerdings sollte man sie nur verwenden, wenn eine Konvertierung sicher möglich ist, da zur Laufzeit keine Überprüfung stattfindet, wodurch diese Konvertierung unsicherer ist und zum Beispiel falsche Speicherüberschreibung oder Laufzeitfehler verursachen kann.
+Bei diesen unsicheren Konvertierungen verwendet man den dynamic_cast, welcher zwar nicht so schnell ist, allerdings gibt es durch die Überprüfung mit RTTI keine unvorhergesehenen Fehler.
+
+
+A2)
+a)
+Mit dem friend-Operator kann eine andere Klasse Zugriff auf protected/private Variablen/Methoden einer anderen Klasse bekommen.
+Dieser Zugriff wird allerdings nicht vererbt.
+Mit friend class KlasseX kann KlasseX auf alle Variablen/Methoden der Klasse zugreifen.
+Mit friend type KlasseX:name(params) kann diese Funktion name von KlasseX auf alle Variablen/Methoden der Klasse zugreifen.
+Das ist sinnvoll, falls manche Klassen auf Werte einer anderen Klasse zugriff brauchen, ohne das diese Werte allgemein zugänglich seien müssen.(Kapselprinzip)
+Beim Testen wird der friend Operator oft gebraucht, um Werte von Klassen anzuzeigen, welche ansonsten nicht zugänglich wären.
+
+b)friend added to PyramideBlock.h Z11.
+    -> friend class Field.
