@@ -40,7 +40,7 @@ int World::receiveConsoleInput() {
                 output = "Exiting...";
             }
         }
-            //add  or move
+        //add  or move
         else if (splitted_input.size() == 4) {
             if (splitted_input[0] == add) {
                 addBlock(splitted_input, &output);
@@ -48,6 +48,7 @@ int World::receiveConsoleInput() {
                 moveBlock(splitted_input, &output);
             }
         }
+        //general error output
         if (output.empty()) {
             output = "Wrong input format!";
         }
@@ -67,11 +68,11 @@ void World::addBlock(const std::vector<std::string> &splitted_string, std::strin
     }
     int blockId = -1;
     if (splitted_string[1] == cube) {
-        blockId = field->addCubeBlock(x,y);
+        blockId = field->addCubeBlock(x, y);
     } else if (splitted_string[1] == pyramid) {
-        blockId = field->addPyramidBlock(x,y);
+        blockId = field->addPyramidBlock(x, y);
     }
-    if(blockId != -1) {
+    if (blockId != -1) {
         *output = splitted_string[1] + " added with Id " + std::to_string(blockId);
     } else {
         *output = "Failed to add " + splitted_string[1] + " to the world!";
@@ -85,13 +86,14 @@ void World::moveBlock(const std::vector<std::string> &splitted_string, std::stri
         x = std::stoi(splitted_string[2]);
         y = std::stoi(splitted_string[3]);
     } catch (const std::exception &exception) {
-        *output = "Failed to add Block, could not convert string to numbers!";
+        *output = "Failed to move Block, could not convert string to numbers!";
         return;
     }
-    if(field->moveBlock(id,x,y)) {
+    if (field->moveBlock(id, x, y)) {
         *output = "Moved block " + std::to_string(id) + " to position " + std::to_string(x) + "|" + std::to_string(y);
     } else {
-        *output = "Failed to move block " + std::to_string(id) + " to position " + std::to_string(x) + "|" + std::to_string(y);
+        *output = "Failed to move block " + std::to_string(id) + " to position " + std::to_string(x) + "|" +
+                  std::to_string(y);
     }
 }
 
