@@ -1,3 +1,1 @@
-C:\Users\konst\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\202.7660.37\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\blocks_world.dir/objects.a
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\blocks_world.dir/objects.a @CMakeFiles\blocks_world.dir\objects1.rsp
-C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -std=c++11 -pthread  -g   -Wl,--whole-archive CMakeFiles\blocks_world.dir/objects.a -Wl,--no-whole-archive  -o blocks_world.exe -Wl,--out-implib,libblocks_world.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\blocks_world.dir\linklibs.rsp
+/usr/bin/c++  -std=c++11 -pthread  -g   CMakeFiles/blocks_world.dir/main.cpp.o CMakeFiles/blocks_world.dir/src/Field.cpp.o CMakeFiles/blocks_world.dir/src/Block.cpp.o CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.o CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.o CMakeFiles/blocks_world.dir/src/World.cpp.o  -o blocks_world 
