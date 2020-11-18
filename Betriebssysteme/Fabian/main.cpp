@@ -10,7 +10,7 @@
 using namespace std;
 
 int main() {
-    if (mkdir(dir_name, 0777) != 0) {
+    if (mkdir(dir_name, S_IRWXU | S_IRWXG | S_IRWXO) != 0) {
         std::cout << "Unable to create directory" << std::endl;
         return 0;
     }
