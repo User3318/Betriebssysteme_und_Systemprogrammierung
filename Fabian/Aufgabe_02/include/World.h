@@ -26,4 +26,8 @@ protected:
     static const std::string pyramid;
     static const std::string move;
     static const std::string exit;
+
+private:
+    void addBlock(const std::vector<std::string>& splitted_string, std::string *output);
+    void moveBlock(const std::vector<std::string>& splitted_string, std::string *output);
 };

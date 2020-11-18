@@ -1,8 +1,6 @@
 #include "PyramidBlock.h"
 
-PyramidBlock::PyramidBlock(int id, int posX, int posY)
-        : Block(id, posX, posY)
-{
+PyramidBlock::PyramidBlock(int id, int posX, int posY) : Block(id, posX, posY) {
 }
 
 std::string PyramidBlock::toString() {
