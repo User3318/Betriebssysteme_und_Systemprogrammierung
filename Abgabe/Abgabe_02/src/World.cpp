@@ -20,8 +20,8 @@ World::World(int length, int width) {
 }
 
 World::~World() {
-    delete inputThread;
     delete field;
+    delete inputThread;
 }
 
 int World::receiveConsoleInput() {
@@ -55,6 +55,7 @@ int World::receiveConsoleInput() {
         }
         std::cout << output << std::endl;
     }
+    inputThread->detach();
     return 0;
 }
 
