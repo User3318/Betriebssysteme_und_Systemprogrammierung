@@ -1,3 +1,0 @@
-/home/user3318/CLionProjects/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/user3318/CLionProjects/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/user3318/CLionProjects/Betriebssysteme_und_Systemprogrammierung/Konstantin/Aufgabe_02/cmake-build-debug/CMakeFiles/blocks_world.dir

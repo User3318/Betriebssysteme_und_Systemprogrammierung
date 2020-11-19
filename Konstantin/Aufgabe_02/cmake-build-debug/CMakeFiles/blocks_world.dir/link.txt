@@ -1,1 +1,0 @@
-/usr/bin/c++  -std=c++11 -pthread  -g   CMakeFiles/blocks_world.dir/main.cpp.o CMakeFiles/blocks_world.dir/src/Field.cpp.o CMakeFiles/blocks_world.dir/src/Block.cpp.o CMakeFiles/blocks_world.dir/src/CubeBlock.cpp.o CMakeFiles/blocks_world.dir/src/PyramidBlock.cpp.o CMakeFiles/blocks_world.dir/src/World.cpp.o  -o blocks_world 
