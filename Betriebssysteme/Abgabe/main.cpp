@@ -5,7 +5,7 @@
 
 #define dir_name "test_dir"
 #define file_name "/test_file.txt"
-#define file_text "test text"
+#define file_text "123"
 
 using namespace std;
 
