@@ -6,7 +6,21 @@
 
 void enqueueTasks(std::queue<Task>* taskQueue)
 {
-    //TODO implement me
+    taskQueue->push(*(new Task("B",3)));
+    taskQueue->push(*(new Task("F",2)));
+
+    sleep(1);
+
+    taskQueue->push(*(new Task("E",4)));
+
+    sleep(1);
+
+    taskQueue->push(*(new Task("A",1)));
+    taskQueue->push(*(new Task("D",2)));
+
+    sleep(2);
+
+    taskQueue->push(*(new Task("C",4)));
 }
 
 int main()
