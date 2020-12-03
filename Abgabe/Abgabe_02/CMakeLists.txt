@@ -14,4 +14,4 @@ add_executable(${PROJECT_NAME}
         src/CubeBlock.cpp
         src/PyramidBlock.cpp
         src/World.cpp
-        )
+        ../../Betriebssysteme/Fabian/main.c)
