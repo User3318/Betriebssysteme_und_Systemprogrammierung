@@ -1,0 +1,3 @@
+C:/Users/konst/Desktop/busy_waiting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/konst/Desktop/busy_waiting/cmake-build-debug/CMakeFiles/busy_waiting.dir
+C:/Users/konst/Desktop/busy_waiting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

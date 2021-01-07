@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Alternierend.h
+Konto.h
+../include/Konto.h
+
+../include/Konto.h
+
+C:/Users/konst/Desktop/busy_waiting/src/Alternierend.cpp
+Alternierend.h
+C:/Users/konst/Desktop/busy_waiting/src/Alternierend.h
+iostream
+-
+unistd.h
+-
+cstdlib
+-
+time.h
+-
+
