@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="scheduler" targetName="scheduler" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5d73d49-8c19-48a0-86d6-69dbed689c50" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/BS&amp;SP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/BS&amp;SP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/Authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/Authors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/Block.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/Block.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/CubeBlock.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/CubeBlock.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/Field.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/Field.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/PyramidBlock.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/PyramidBlock.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/World.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/include/World.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/Block.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/Block.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/CubeBlock.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/CubeBlock.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/Field.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/Field.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/PyramidBlock.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/PyramidBlock.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/World.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Abgabe_02/src/World.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/Authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/Authors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Book.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Book.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Library.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Library.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Shelf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Shelf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Visitor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/include/Visitor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Book.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Book.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Library.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Shelf.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Shelf.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Visitor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/Visitor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Abgabe/Aufgabe_01/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B1/Authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../B1/Authors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../B1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../B2/Authors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../B2/Authors.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Scheduler.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Scheduler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/Task.h" beforeDir="false" afterPath="$PROJECT_DIR$/include/Task.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Scheduler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Scheduler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/A1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/A1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/include/Scheduler.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/include/Scheduler.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/include/Task.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/include/Task.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/src/Scheduler.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/src/Scheduler.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/src/Task.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/src/Task.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/A3/Vorlage/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Fabian/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Fabian/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/Aufgabe_01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/Aufgabe_01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Book.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Book.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Library.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Library.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Shelf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Shelf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Visitor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/include/Visitor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Book.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Book.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Library.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Shelf.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Shelf.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Visitor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/Visitor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_01/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/Aufgabe_02.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/Aufgabe_02.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/Block.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/Block.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/CubeBlock.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/CubeBlock.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/Field.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/Field.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/PyramidBlock.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/PyramidBlock.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/World.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/include/World.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/Block.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/Block.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/CubeBlock.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/CubeBlock.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/Field.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/Field.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/PyramidBlock.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/PyramidBlock.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/World.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Fabian/Aufgabe_02/src/World.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Book.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Book.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Library.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Library.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Shelf.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Shelf.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Visitor.h" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/include/Visitor.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Book.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Book.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Library.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Library.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Shelf.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Shelf.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Visitor.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/Visitor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_01/src/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/Aufgabe_02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/Aufgabe_02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Konstantin/Aufgabe_02/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1mZ8Kv5Zwxh5NfLS5i3or0Wz4eb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="D:/Dateien/Eigene Dateien/Studium/Betriebssysteme und Systemprogrammierung/Übung/Übungsblatt 6/busy_waiting" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="scheduler" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="scheduler" TARGET_NAME="scheduler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="scheduler" RUN_TARGET_NAME="scheduler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5d73d49-8c19-48a0-86d6-69dbed689c50" name="Default Changelist" comment="" />
+      <created>1609689693170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609689693170</updated>
+      <workItem from="1609689696031" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1609689730717">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/-1366.322.1366.728/2560.106.1920.1160@0.0.2560.1400" timestamp="1609689730717" />
+  </component>
+</project>

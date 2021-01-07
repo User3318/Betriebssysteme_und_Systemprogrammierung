@@ -1,0 +1,3 @@
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Betriebssysteme/Abgabe/B3/Vorlage/cmake-build-debug/CMakeFiles/scheduler.dir
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Betriebssysteme/Abgabe/B3/Vorlage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/konst/Documents/GitHub/Betriebssysteme_und_Systemprogrammierung/Betriebssysteme/Abgabe/B3/Vorlage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
